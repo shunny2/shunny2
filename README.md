@@ -2,6 +2,10 @@
 
 Graduating in Software Engineering, I seek to make a career in this area.
 
+### Contacts:
+<p align="left">
+<a href="https://www.linkedin.com/in/alexander-davis-2669191b9/" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
+</p>
 <!--
 **shunny2/shunny2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
