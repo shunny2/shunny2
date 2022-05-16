@@ -9,7 +9,7 @@ Graduating in Software Engineering, I seek to make a career in this area.
 
 ## GitHub Stats
 
-https://skyline.github.com/shunny2/2021
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shunny2)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **shunny2/shunny2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
