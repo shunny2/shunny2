@@ -12,7 +12,7 @@ Graduating in Software Engineering, I seek to make a career in this area.
 
 <img src="https://github-readme-stats.vercel.app/api?username=shunny2&theme=midnight-purple&show_icons=true" alt="GitHub Stats for Alexander Davis" width="700"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=MishManners&theme=midnight-purple" width="700">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=MishManners&theme=midnight-purple&show_icons=true" width="700">
 
 <!--
 **shunny2/shunny2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
