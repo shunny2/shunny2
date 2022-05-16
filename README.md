@@ -2,7 +2,7 @@
 
 Graduating in Software Engineering, I seek to make a career in this area.
 
-### Contacts:
+### Connect with me:
 
 <p align="left">
 <a href="https://www.linkedin.com/in/alexander-davis-2669191b9/" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
