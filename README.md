@@ -1,8 +1,8 @@
-## 👋 Hi, I'm Alexander. A lover of technology, games, and astronomy. 👋
+## 🚀 Hi, I'm Alexander. A lover of technology, games, and astronomy. 🚀
 
-Everyday, I get to create awesome experiences and engage with the vibrant GitHub developer community. I've run many hackathons, and am an accomplished MC, speaker, and facilitator :microphone:. You'll often catch me at an event, speaking on stage, or find me on a live stream instead!
+Graduating in Software Engineering, I seek to make a career in this area.
 
-<!-- ![2021-08-10 20-43-14 2021-08-10 20_45_32](https://user-images.githubusercontent.com/36594527/131284497-24a6db5f-d86d-4548-81cc-fa6aa186892c.gif) -->
+![2021-08-10 20-43-14 2021-08-10 20_45_32](https://user-images.githubusercontent.com/36594527/131284497-24a6db5f-d86d-4548-81cc-fa6aa186892c.gif)
 
 ### Contacts:
 <p align="left">
