@@ -2,9 +2,8 @@
 
 Graduating in Software Engineering, I seek to make a career in this area.
 
-![2021-08-10 20-43-14 2021-08-10 20_45_32](https://user-images.githubusercontent.com/36594527/131284497-24a6db5f-d86d-4548-81cc-fa6aa186892c.gif)
-
 ### Contacts:
+
 <p align="left">
 <a href="https://www.linkedin.com/in/alexander-davis-2669191b9/" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
 </p>
