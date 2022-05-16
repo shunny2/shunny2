@@ -1,5 +1,6 @@
 ### Hi, I'm Alexander. A lover of tech, games and astronomy.
 <hr>
+
 Graduated in Software Engineering, I seek to make a career in this area.
 
 <!--
