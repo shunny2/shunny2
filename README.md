@@ -1,6 +1,6 @@
-### Hi, I'm Alexander. A lover of tech, games and astronomy.
+### Hi, I'm Alexander. A lover of technology, games, and astronomy.
 
-Graduated in Software Engineering, I seek to make a career in this area.
+Graduating in Software Engineering, I seek to make a career in this area.
 
 <!--
 **shunny2/shunny2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
