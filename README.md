@@ -1,6 +1,6 @@
 ## 🚀 Hi, I'm Alexander. A lover of technology, games, and astronomy. 🚀
 
-Graduating in Software Engineering, I seek to make a career in this area.
+<h2>Graduating in Software Engineering, I seek to make a career in this area.</h2>
 
 ### Connect with me:
 
