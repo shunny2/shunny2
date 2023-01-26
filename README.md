@@ -21,7 +21,7 @@ I'm currently focused on being a Full Stack Developer. But as a game lover, in t
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
-### Languages and technologies In learning:
+### Languages and Technologies in learning:
 
 ![Typescript](https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwindcss](https://img.shields.io/badge/Tailwindcss-blueviolet?style=for-the-badge&logo=tailwindcss&logoColor=white)
