@@ -30,6 +30,13 @@ I'm currently focused on being a Full Stack Developer. But as a game lover, in t
 ![MaterialUI](https://img.shields.io/badge/Materialui-656AD6?style=for-the-badge&logo=mui&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/Mongodb-43853D?style=for-the-badge&logo=mongodb&logoColor=white)
 
+## Social Links
+<div style="display: inline_block">
+  <a href="mailto:alexander.davis.098@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-464646?style=for-the-badge&logo=gmail&logoColor=white)" alt="Gmail" /><a/>
+  <a href="https://www.linkedin.com/in/alexander-davis-2669191b9/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-025E92?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>
+  <a href="https://alexanderdavis-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-9300FF?style=for-the-badge" alt="Portfolio" /></a>
+</div>
+
 ## GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=shunny2&theme=midnight-purple&show_icons=true" alt="GitHub Stats for Alexander Davis" width="700"/>
@@ -37,3 +44,10 @@ I'm currently focused on being a Full Stack Developer. But as a game lover, in t
 <img src="https://github-readme-streak-stats.herokuapp.com?user=MishManners&theme=midnight-purple&show_icons=true" width="700">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shunny2&theme=midnight-purple&show_icons=true" width="700">
+
+<div align="center">
+  <br>
+  <p align="center"><b>Visitors Count</b></p>
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{shunny2}/count.svg" /></p>
+  <br>
+</div>
