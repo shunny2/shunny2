@@ -1,6 +1,6 @@
 ## 🚀 Hi, I'm Alexander. A lover of technology, games, and astronomy. 🚀
 
-I'm currently focused on being a Full Stack Developer. But as a game lover, in the future, I intend to work in the games area.
+I'm currently focused on being a Full Stack Developer. But as a games lover, in the future, I intend to work in the games area.
 
 ### Languages and Technologies I know about:
 
