@@ -28,10 +28,11 @@ I'm currently focused on being a Full Stack Developer. But as a games lover, in 
 ![Tailwindcss](https://img.shields.io/badge/Tailwindcss-blueviolet?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-gray?style=for-the-badge&logo=prisma&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel&logoColor=white)
-![Wordpress](https://img.shields.io/badge/Wordpress-100000?style=for-the-badge&logo=wordpress&logoColor=white)
+![Nestjs](https://img.shields.io/badge/Nestjs-e93333?style=for-the-badge&logo=nestjs&logoColor=white)
 ![MaterialUI](https://img.shields.io/badge/Materialui-656AD6?style=for-the-badge&logo=mui&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/Mongodb-43853D?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-001D89?style=for-the-badge&logo=docker&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-c21325?style=for-the-badge&logo=jest&logoColor=white)
 
 ## Social Links
 <div style="display: inline_block">
